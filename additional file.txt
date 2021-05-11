@@ -1,0 +1,3 @@
+you will require the "GoogleNews-vectors-negative300.bin"
+
+https://www.kaggle.com/leadbest/googlenewsvectorsnegative300?select=GoogleNews-vectors-negative300.bin
